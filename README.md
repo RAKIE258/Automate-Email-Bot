@@ -1,1 +1,1 @@
-# Autate-Email-Bot
+# Automate-Email-Bot
